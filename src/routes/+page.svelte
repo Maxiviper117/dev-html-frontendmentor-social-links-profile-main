@@ -1,7 +1,5 @@
 <script lang="ts">
 	import Button from '$lib/Components/Button.svelte';
-
-	export const prerender = true; 
 </script>
 
 <div class="w-full h-dvh flex justify-center items-center">
